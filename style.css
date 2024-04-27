@@ -1,0 +1,14 @@
+.bg{
+    background-image: url(./IMAGES/bg.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.brr{
+    margin-right: 2 !important;
+}
+
+.heading{
+    
+    font-weight: normal;
+}
